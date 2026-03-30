@@ -1,4 +1,4 @@
-import placeholderLogo from './assets/placeholder-logo.svg'
+import Logo from './assets/dxuglas-wordmark.svg'
 import './App.css'
 
 function App() {
@@ -6,23 +6,22 @@ function App() {
     <div className="page">
       <main className="main">
         <img
-          src={placeholderLogo}
+          src={Logo}
           alt="Logo"
           className="logo"
         />
       </main>
 
       <footer className="footer">
-        <h2>Contact</h2>
         <ul className="contact-list">
           <li>
-            <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank" rel="noreferrer">
-              LinkedIn
+            <a href="https://linkedin.com/in/noahdxgulas" target="_blank" rel="noreferrer">
+              Noah Douglas
             </a>
           </li>
           <li>
-            <a href="mailto:YOUR_EMAIL@example.com">
-              YOUR_EMAIL@example.com
+            <a href="mailto:noah@dxuglas.com">
+              noah@dxuglas.com
             </a>
           </li>
         </ul>

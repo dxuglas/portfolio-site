@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
-  <circle cx="100" cy="100" r="90" fill="none" stroke="#ecf0f1" stroke-width="4" stroke-dasharray="8 4"/>
-  <circle cx="100" cy="100" r="70" fill="rgba(236,240,241,0.08)"/>
-  <text x="100" y="108" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" font-weight="600" fill="#ecf0f1" letter-spacing="2">LOGO</text>
-</svg>

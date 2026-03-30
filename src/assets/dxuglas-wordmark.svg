@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="52.287697mm"
+   width="122.60033mm"
    height="58.250153mm"
-   viewBox="0 0 197.62279 220.15806"
+   viewBox="0 0 463.37132 220.15807"
    version="1.1"
    id="svg1"
    sodipodi:docname="quark-workmark.svg"
@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="2.4359771"
      inkscape:cx="228.45042"
-     inkscape:cy="77.792193"
+     inkscape:cy="107.75963"
      inkscape:window-width="1900"
      inkscape:window-height="1142"
      inkscape:window-x="0"
@@ -37,10 +37,10 @@
     <filter
        style="color-interpolation-filters:sRGB"
        id="filter67-2-6"
-       x="-0.50002677"
-       y="-0.36157882"
-       width="2.4755096"
-       height="1.9095021">
+       x="-0.06805319"
+       y="-0.29758258"
+       width="1.2008155"
+       height="1.7485283">
       <feFlood
          result="flood"
          in="SourceGraphic"
@@ -134,7 +134,7 @@
            id="tspan5-5-5"
            x="248.12654"
            y="447.71991"
-           style="fill:#f0f0ff;fill-opacity:1;stroke-width:1.60898">d</tspan></text>
+           style="fill:#f0f0ff;fill-opacity:1;stroke-width:1.60898">dxuglas.</tspan></text>
     </g>
   </g>
 </svg>
