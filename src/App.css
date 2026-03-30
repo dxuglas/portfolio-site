@@ -45,6 +45,15 @@
   text-decoration: none;
   font-size: 16px;
   transition: color 0.2s;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.contact-icon {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
 }
 
 .contact-list a:hover {
