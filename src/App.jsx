@@ -1,4 +1,4 @@
-import Logo from './assets/dxuglas-wordmark.svg'
+import Logo from './assets/dxuglas-wordmark.png'
 import './App.css'
 
 const LinkedInIcon = () => (
@@ -39,7 +39,7 @@ function App() {
       <footer className="footer">
         <ul className="contact-list">
           <li>
-            <a href="https://linkedin.com/in/noahdxgulas" target="_blank" rel="noreferrer">
+            <a href="https://linkedin.com/in/noahdxuglas" target="_blank" rel="noreferrer">
               <LinkedInIcon />
               Noah Douglas
             </a>
